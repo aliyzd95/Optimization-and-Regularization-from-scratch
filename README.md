@@ -1,7 +1,7 @@
 # Optimization-and-Regularization-from-scratch
 Implementation of optimization and regularization algorithms in deep neural networks from scratch
 
-In this repository, I implemented and investigated different optimaziation algorithms including Adam, Adagrad, Gradient Descent and RMSProp along with L1 and L2 regularization method to classify samples in the cifar dataset.
+In this repository, I implemented and investigated different optimaziation algorithms including **Adam**, **Adagrad**, **Gradient Descent** and **RMSProp** along with **L1** and **L2** regularization methods to classify samples in the cifar dataset.
 
 ### Gradient Descent
 <img src='https://user-images.githubusercontent.com/55990659/203638831-f4b36417-11c4-4727-b2b3-3f82c55d7558.png' width='50%'>
